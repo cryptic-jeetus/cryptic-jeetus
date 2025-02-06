@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptic-jeetus
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computing and Software systems
+- 🌱 I’m currently majoring in Computer science at University of Melbourne with a minor in Finance
 - 💞️ I’m looking to collaborate on small scale projects
 - 😄 Pronouns: He/Him
 
